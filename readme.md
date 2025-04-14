@@ -12,3 +12,6 @@ Adding specific css and link to index file
 
 # Running to see the functionality
 Choosing options to play along
+
+# Finalizing the directory files
+Zipping up all files
