@@ -6,3 +6,6 @@ Added code to every file for app
 
 # Provided link to js file from index
 #<script src="script.js"></script>
+
+# Adding css styles to file
+Adding specific css and link to index file
