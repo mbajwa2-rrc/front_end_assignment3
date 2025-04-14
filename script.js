@@ -73,7 +73,7 @@ function clearAnswers() {
 }
 
 function nextQuestion() {
-  startGame(); // Restart game
+  startGame(); 
 }
 
-startGame(); // Start the game when page loads
+startGame(); 
