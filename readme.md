@@ -9,3 +9,6 @@ Added code to every file for app
 
 # Adding css styles to file
 Adding specific css and link to index file
+
+# Running to see the functionality
+Choosing options to play along
