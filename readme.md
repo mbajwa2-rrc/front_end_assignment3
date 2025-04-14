@@ -15,3 +15,7 @@ Choosing options to play along
 
 # Finalizing the directory files
 Zipping up all files
+
+# Adding read me file for all steps
+Read Me file Update
+
